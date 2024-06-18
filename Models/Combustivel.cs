@@ -2,5 +2,6 @@
 
 public class Combustivel
 {
-    
+    private string Tipo { get; set; }
+    private string Preco { get; set; }
 }

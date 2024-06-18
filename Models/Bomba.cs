@@ -2,5 +2,5 @@
 
 public class Bomba
 {
-    
+    private int Numero { get; set; }
 }

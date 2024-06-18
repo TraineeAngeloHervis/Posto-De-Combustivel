@@ -2,5 +2,5 @@
 
 public class Veiculo
 {
-    
+    private string Placa { get; set; }
 }
